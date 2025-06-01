@@ -44,9 +44,9 @@ Sou apaixonado por criar interfaces bonitas, responsivas e funcionais. Também t
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-marques-2bb47322a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arthur-marques-2bb47322a](https://www.linkedin.com/in/arthur-marques-2bb47322a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arthurmarques)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arthurmarques)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oarthuur_1/)
 
 ---
 
