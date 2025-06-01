@@ -1,13 +1,16 @@
-```
-# 👋 Olá! Eu sou o Arthur Marques
+# 👋 Olá, eu sou o Arthur Marques
 
-Desenvolvedor Frontend apaixonado por criar interfaces bonitas, responsivas e funcionais. Também sou entusiasta de segurança da informação — adoro explorar como proteger sistemas e dados! 💻🔒
-
-Atualmente, trabalho como Assistente Administrativo de Vendas, onde aprendo muito sobre atendimento ao cliente, organização e foco em resultados. Estou sempre buscando aprender e crescer, seja codando um projeto novo, estudando segurança ou aprimorando minhas habilidades no dia a dia.
+### Desenvolvedor Frontend | Entusiasta em Segurança da Informação
 
 ---
 
-## 🚀 Tecnologias & Skills
+## 🚀 Sobre mim
+
+Sou apaixonado por criar interfaces bonitas, responsivas e funcionais. Também tenho um grande interesse em segurança da informação, sempre buscando aprender e aplicar melhores práticas para proteger sistemas e dados. Atualmente, trabalho como Assistente Administrativo de Vendas na Kamaq Máquinas, onde desenvolvo habilidades em atendimento ao cliente, organização e foco em resultados.
+
+---
+
+## 💻 Tecnologias & Skills
 
 | Linguagens                  | Ferramentas & Sistemas Operacionais |
 |----------------------------|------------------------------------|
@@ -19,13 +22,27 @@ Atualmente, trabalho como Assistente Administrativo de Vendas, onde aprendo muit
 
 ## 💼 Experiência Profissional
 
-- Assistente Administrativo de Vendas na Kamaq Máquinas — lidando com orçamentos, pedidos e atendimento a clientes.
-- Desenvolvimento de projetos pessoais de frontend, focando em design responsivo e usabilidade.
-- Estudante dedicado de segurança da informação e entusiasta de tecnologia.
+### Assistente Administrativo de Vendas — Kamaq Máquinas  
+*Abril 2024 – Presente*  
+- Atendimento a clientes, elaboração de orçamentos e pedidos.  
+- Organização e controle de processos administrativos de vendas.  
+- Desenvolvimento de habilidades em comunicação e foco em resultados.
+
+### Projetos Pessoais de Frontend  
+- Desenvolvimento de sites responsivos com foco em usabilidade e design.  
+- Aprendizado contínuo em tecnologias web e segurança da informação.
 
 ---
 
-## 📫 Me encontre por aqui!
+## 🎯 Objetivos
+
+- Tornar-me especialista em desenvolvimento frontend e segurança da informação.  
+- Trabalhar em projetos que tragam soluções reais e impacto positivo.  
+- Continuar aprendendo e crescendo na carreira.
+
+---
+
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-marques-2bb47322a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arthurmarques)  
@@ -33,13 +50,4 @@ Atualmente, trabalho como Assistente Administrativo de Vendas, onde aprendo muit
 
 ---
 
-## 🎯 Objetivos
-
-- Me tornar um especialista em desenvolvimento frontend e segurança da informação.
-- Trabalhar em projetos que ajudem as pessoas e tragam soluções reais.
-- Continuar aprendendo e crescendo na carreira, com foco em excelência e impacto positivo.
-
----
-
-Obrigado por passar aqui no meu perfil! 🚀
-```
+Obrigado por visitar meu perfil! 🚀
