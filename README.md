@@ -22,7 +22,7 @@ Sou apaixonado por criar interfaces bonitas, responsivas e funcionais. Também t
 
 ## 💼 Experiência Profissional
 
-### Assistente Administrativo de Vendas — Kamaq Máquinas  
+### Vendedor Junior — Kamaq Máquinas  
 *Abril 2024 – Presente*  
 - Atendimento a clientes, elaboração de orçamentos e pedidos.  
 - Organização e controle de processos administrativos de vendas.  
