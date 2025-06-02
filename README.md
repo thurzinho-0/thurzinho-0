@@ -8,6 +8,7 @@
 
 Sou apaixonado por criar interfaces bonitas, responsivas e funcionais. Também tenho um grande interesse em segurança da informação, sempre buscando aprender e aplicar melhores práticas para proteger sistemas e dados. Atualmente, trabalho como Assistente Administrativo de Vendas na Kamaq Máquinas, onde desenvolvo habilidades em atendimento ao cliente, organização e foco em resultados.
 
+🔗 Acesse aqui: https://lnkd.in/d9SBtHYu
 ---
 
 ## 💻 Tecnologias & Skills
