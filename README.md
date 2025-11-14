@@ -32,7 +32,7 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarques&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurmarques&theme=ayu_mirage"/>
+  <img align="center" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurmarques&theme=ayu_mirage"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
