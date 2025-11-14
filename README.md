@@ -1,74 +1,109 @@
-# 👋 Olá, eu sou o Arthur Marques!
+<br>
+<br>
+<br>
 
-### 🔐 **Futuro Analista de Segurança** | 💻 Entusiasta de Segurança da Informação | 🚀 Experiência em Frontend | 🖥️ Conhecimentos em **SQL** & **PHP**
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
 
----
+<div align="center">
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Arthur Marques</b>
+  </samp>
+</div>
 
-## 🚀 Sobre mim
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Systems+Development;I'm+also+a+Cybersecurity+enthusiast;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-Sou **apaixonado por Segurança da Informação** e estou em uma jornada empolgante para me tornar um **Futuro Analista de Segurança**! Todos os dias, estudo as **principais técnicas de teste de intrusão**, mergulho em vulnerabilidades como o **OWASP Top 10**, e aprendo a usar ferramentas incríveis como **Kali Linux, Burp Suite e Nmap**. Coloco tudo em prática em ambientes controlados como os **labs do TryHackMe**!
+<br>
 
-Além disso, tenho uma base sólida em **HTML, CSS, JavaScript**, e conhecimentos em **SQL** e **PHP**, o que me dá uma vantagem ao entender a fundo o funcionamento das aplicações web — essencial para identificar falhas de segurança!
+<div align="center">
+  <img src="https://img.shields.io/badge/arthur_♡-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=arthurmarques&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarques&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurmarques&theme=ayu_mirage"/>
+</div>
 
-Atualmente, trabalho como **Assistente Administrativo de Vendas na Kamaq Máquinas**, onde continuo desenvolvendo habilidades de **organização, comunicação** e **foco em resultados**!
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kali-linux/kali-linux-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/burp-suite/burp-suite-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nmap/nmap-original.svg" />
+</div>
 
-🔗 Acesse meu portfólio: [https://lnkd.in/d9SBtHYu](https://lnkd.in/d9SBtHYu)
+<br>
+<br>
 
----
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-## 🔐 Conhecimentos em Segurança
+##
 
-- **OWASP Top 10**  
-- **Kali Linux, Burp Suite, Nmap**  
-- Linux básico e comandos para análise  
-- Varreduras de vulnerabilidades e simulações em ambientes controlados  
-- Fundamentos de **LGPD** e ética hacker  
-- Plataformas de prática: **TryHackMe** e **PortSwigger Web Security Academy**
+<br>
 
----
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-## 💻 Tecnologias Complementares (Frontend & Backend)
+  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthurmarques@example.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/arthurm_1/)
+  [![Discord](https://img.shields.io/badge/Discord-755b25?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthur-marques-2bb47322a/)
+  
+</div>
 
-| Linguagens                  | Ferramentas & Sistemas Operacionais      |
-|----------------------------|------------------------------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)     | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=sql&logoColor=white)   | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/arthurmarques">rentry</a> ⊹
+        <a href="https://linktr.ee/arthurvm1">linktr.ee</a> ⊹
+        <a href="https://byarthurvm.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
+</div>
+<br>
 
----
+</details>
 
-## 💼 Experiência Profissional
+##
 
-### Vendedor Junior — Kamaq Máquinas  
-*Abril 2024 – Presente*  
-- Atendimento a clientes, elaboração de orçamentos e pedidos.  
-- Organização e controle de processos administrativos de vendas.  
-- Desenvolvimento de habilidades em comunicação, resolução de problemas e foco em resultados.
+<br>
 
-### Projetos Pessoais  
-- Sites responsivos com **HTML, CSS, JavaScript**, e **PHP**.  
-- Criação de consultas e banco de dados com **SQL**.  
-- Prática em simulação de ataques (ex: XSS, SQLi) em labs controlados.  
-- Estudos práticos com foco em **Pentest Web** e análise de vulnerabilidades.
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=arthurmarques&style=flat-square&color=755b25" /></p> 
+</div>
 
----
-
-## 🎯 Objetivos
-
-- Atuar como **Pentester Júnior** nos próximos meses.  
-- Participar de projetos e times que promovam a segurança digital.  
-- Obter certificações reconhecidas (ex: eJPT, CompTIA Security+, etc.).  
-- Continuar aprendendo e crescendo profissionalmente no mundo da cibersegurança.
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-marques-2bb47322a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arthurmarques)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oarthuur_1/)
-
----
-
-Com isso, você agora tem um **README.md** ainda mais completo, destacando **SQL** e **PHP** junto às tecnologias e conhecimentos de segurança!
+<br>
+<br>
+<br>
