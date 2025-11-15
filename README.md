@@ -45,28 +45,6 @@ const arthur = {
 ```
 
 ---
-
-## 💼 Projetos em destaque
-
-### 🐰 [Little Bunny's E-commerce](https://github.com/thurzinho-0/little-bunnys)
-> Um frontend responsivo para um e-commerce fictício
-- **Stack:** HTML, CSS, JavaScript, Swiper.js
-- **Funcionalidades:** Carrinho interativo, design responsivo, carrossel de banners
-- 🎨 [Demo ao vivo](#) | 📖 [Leia mais](https://linkedin.com/in/arthur-marques-2bb47322a)
-
-### 👕 Streetwear E-commerce (Em desenvolvimento)
-> Sistema full-stack com gestão de estoque sob demanda para camisetas streetwear
-- **Stack:** PHP, MySQL, HTML, CSS, JavaScript
-- **Funcionalidades:** Inventário em tempo real, painel admin, portal do cliente
-- 🔧 Em desenvolvimento
-
-### 🔐 Estudos em Cibersegurança
-> Explorando segurança de redes, pentesting e ethical hacking
-- **Ferramentas:** Kali Linux, Burp Suite, Nmap
-- **Foco:** Avaliação de vulnerabilidades, criptografia, privacidade digital
-
----
-
 ## 🛠️ Tech Stack
 
 ### Linguagens & Frameworks
@@ -127,6 +105,28 @@ const arthur = {
   ⭐️ Feito por [thurzinho-0](https://github.com/thurzinho-0) com ❤️
   
 </div>
+
+## 💼 Projetos em destaque
+
+### 🐰 [Little Bunny's E-commerce](https://github.com/thurzinho-0/little-bunnys)
+> Um frontend responsivo para um e-commerce fictício
+- **Stack:** HTML, CSS, JavaScript, Swiper.js
+- **Funcionalidades:** Carrinho interativo, design responsivo, carrossel de banners
+- 🎨 [Demo ao vivo](#) | 📖 [Leia mais](https://linkedin.com/in/arthur-marques-2bb47322a)
+
+### 👕 Streetwear E-commerce (Em desenvolvimento)
+> Sistema full-stack com gestão de estoque sob demanda para camisetas streetwear
+- **Stack:** PHP, MySQL, HTML, CSS, JavaScript
+- **Funcionalidades:** Inventário em tempo real, painel admin, portal do cliente
+- 🔧 Em desenvolvimento
+
+### 🔐 Estudos em Cibersegurança
+> Explorando segurança de redes, pentesting e ethical hacking
+- **Ferramentas:** Kali Linux, Burp Suite, Nmap
+- **Foco:** Avaliação de vulnerabilidades, criptografia, privacidade digital
+
+---
+
 
 ## 🎓 Experiência Profissional
 
