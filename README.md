@@ -25,10 +25,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F4CD7C&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Software;Entusiasta+de+Web+Development;Explorador+de+Cibersegurança;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG"/>
-</div>
-
 ---
 
 ## 🎯 Sobre mim
