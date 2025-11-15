@@ -1,15 +1,13 @@
+# Olá! 👋 Eu sou o Arthur Marques
+
 <div align="center">
   <img height="150" src="https://imgur.com/aXIQLp8.png" alt="Banner"/>
 </div>
 
-<h1 align="center">
-  Hi there! 👋 I'm Arthur Marques
-</h1>
-
 <p align="center">
-  <b>Software Developer & Cybersecurity Enthusiast</b>
+  <b>Desenvolvedor de Software & Entusiasta de Cibersegurança</b>
   <br/>
-  🇧🇷 Based in Araras, São Paulo — Open to relocation
+  🇧🇷 Baseado em Araras, São Paulo — Aberto a realocação
 </p>
 
 <p align="center">
@@ -28,54 +26,54 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F4CD7C&center=true&vCenter=true&width=600&lines=Software+Development+Student;Web+Development+Enthusiast;Cybersecurity+Explorer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F4CD7C&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Software;Entusiasta+de+Web+Development;Explorador+de+Cibersegurança;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 Sobre mim
 
 ```typescript
 const arthur = {
-  location: "Araras/SP, Brazil",
-  education: "Software Development @ FATEC Araras",
-  role: "Sales Administrative Assistant & Aspiring Developer",
-  interests: ["Web Development", "Cybersecurity", "E-commerce", "UI/UX"],
-  currentFocus: "Building full-stack projects with React, Go & MySQL",
-  languages: {
-    portuguese: "Native",
-    english: "A2 → B1 (studying with UK native teacher)"
+  localizacao: "Araras/SP, Brasil",
+  formacao: "Desenvolvimento de Software @ FATEC Araras",
+  cargo: "Assistente Administrativo de Vendas & Desenvolvedor em formação",
+  interesses: ["Desenvolvimento Web", "Cibersegurança", "E-commerce", "UI/UX"],
+  focoAtual: "Construindo projetos full-stack com React, Go & MySQL",
+  idiomas: {
+    portugues: "Nativo",
+    ingles: "A2 → B1 (estudando com professor nativo do Reino Unido)"
   },
-  openTo: ["Internships", "Junior Positions", "Collaborations"]
+  abertoA: ["Estágios", "Vagas Jr.", "Colaborações"]
 };
 ```
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projetos em destaque
 
 ### 🐰 [Little Bunny's E-commerce](https://github.com/thurzinho-0/little-bunnys)
-> A responsive e-commerce frontend project for a fictional online store
-- **Tech Stack:** HTML, CSS, JavaScript, Swiper.js
-- **Features:** Interactive cart, responsive design, carousel banners
-- 🎨 [Live Demo](#) | 📖 [Read More](https://linkedin.com/in/arthur-marques-2bb47322a)
+> Um frontend responsivo para um e-commerce fictício
+- **Stack:** HTML, CSS, JavaScript, Swiper.js
+- **Funcionalidades:** Carrinho interativo, design responsivo, carrossel de banners
+- 🎨 [Demo ao vivo](#) | 📖 [Leia mais](https://linkedin.com/in/arthur-marques-2bb47322a)
 
-### 👕 Streetwear E-commerce (In Progress)
-> Full-stack on-demand stock management system for streetwear t-shirts
-- **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
-- **Features:** Real-time inventory, admin panel, customer portal
-- 🔧 Currently in development
+### 👕 Streetwear E-commerce (Em desenvolvimento)
+> Sistema full-stack com gestão de estoque sob demanda para camisetas streetwear
+- **Stack:** PHP, MySQL, HTML, CSS, JavaScript
+- **Funcionalidades:** Inventário em tempo real, painel admin, portal do cliente
+- 🔧 Em desenvolvimento
 
-### 🔐 Cybersecurity Studies
-> Exploring network security, penetration testing & ethical hacking
-- **Tools:** Kali Linux, Burp Suite, Nmap
-- **Focus:** Vulnerability assessment, encryption, digital privacy
+### 🔐 Estudos em Cibersegurança
+> Explorando segurança de redes, pentesting e ethical hacking
+- **Ferramentas:** Kali Linux, Burp Suite, Nmap
+- **Foco:** Avaliação de vulnerabilidades, criptografia, privacidade digital
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Linguagens & Frameworks
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -87,7 +85,7 @@ const arthur = {
 
 </div>
 
-### Frontend & Styling
+### Frontend & Estilização
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -96,7 +94,7 @@ const arthur = {
 
 </div>
 
-### Database & Tools
+### Banco de Dados & Ferramentas
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -107,7 +105,7 @@ const arthur = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -124,31 +122,31 @@ const arthur = {
 
 ---
 
-## 🎓 Professional Experience
+## 🎓 Experiência Profissional
 
-**Sales Administrative Assistant** @ Kamaq Máquinas  
-*Oct 2024 - Present*
-- Customer support & technical assistance
-- Budget preparation & order control via spreadsheets and ERP
-- Process optimization reducing response time
+**Assistente Administrativo de Vendas** @ Kamaq Máquinas  
+*Out 2024 - Presente*
+- Suporte ao cliente & assistência técnica
+- Preparação de orçamentos & controle de pedidos via planilhas e ERP
+- Otimização de processos reduzindo tempo de resposta
 
-**Student** @ FATEC Araras  
-*Aug 2024 - Aug 2027*
-- Multiplatform Software Development
-- Focus on web development, databases, and software engineering
-
----
-
-## 📚 Currently Learning
-
-- 🌐 Advanced React & Next.js
-- 🔒 Penetration Testing & OWASP Top 10
-- 🗄️ Database optimization & SQL injection prevention
-- 🌍 English fluency (A2 → B1)
+**Estudante** @ FATEC Araras  
+*Ago 2024 - Ago 2027*
+- Desenvolvimento Multiplataforma
+- Foco em desenvolvimento web, bancos de dados e engenharia de software
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Atualmente aprendendo
+
+- 🌐 React avançado & Next.js
+- 🔒 Testes de penetração & OWASP Top 10
+- 🗄️ Otimização de banco de dados & prevenção de SQL injection
+- 🌍 Fluência em inglês (A2 → B1)
+
+---
+
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
@@ -162,13 +160,13 @@ const arthur = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurmarques&style=flat-square&color=0e75b6&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=arthurmarques&style=flat-square&color=0e75b6&label=Visualizações+do+Perfil"/>
   <br/>
-  <sub>💡 <i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</sub>
+  <sub>💡 <i>"Código é como humor. Quando você precisa explicar, já não é tão bom."</i> – Cory House</sub>
 </div>
 
 <div align="center">
   
-  ⭐️ From [arthurmarques](https://github.com/arthurmarques) with ❤️
+  ⭐️ Feito por [arthurmarques](https://github.com/arthurmarques) com ❤️
   
 </div>
