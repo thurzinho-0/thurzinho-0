@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Substitua o link abaixo pelo seu link de imagem -->
-  <img height="150" src="https://github.com/thurzinho-0/thurzinho-0/blob/main/imagem_2025-11-15_152703901-removebg-preview.png?raw=true" alt="Banner"/>
+  <img height="300" src="https://github.com/thurzinho-0/thurzinho-0/blob/main/imagem_2025-11-15_152703901-removebg-preview.png?raw=true" alt="Banner"/>
 </div>
 
 <p align="center">
