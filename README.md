@@ -161,22 +161,7 @@ const arthur = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://byarthurvm.carrd.co/)
-[![Rentry](https://img.shields.io/badge/Rentry-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rentry.co/arthurmarques)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/arthurvm1)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069)
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurmarques&style=flat-square&color=0e75b6&label=Visualizações+do+Perfil"/>
-  <br/>
-  <sub>💡 <i>"Código é como humor. Quando você precisa explicar, já não é tão bom."</i> – Cory House</sub>
-</div>
-
-<div align="center">
-  
-  ⭐️ Feito por [arthurmarques](https://github.com/arthurmarques) com ❤️
-  
-</div>
