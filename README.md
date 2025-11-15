@@ -142,22 +142,21 @@ const arthur = {
 - Foco em desenvolvimento web, bancos de dados e engenharia de software
 
 ---
-
 ## 📚 Atualmente aprendendo
 
 - 🌐 React avançado & Next.js
-- 🔒 Testes de penetração & OWASP Top 10
+- 🔒 Testes de penetração & Redes
 - 🗄️ Otimização de banco de dados & prevenção de SQL injection
 - 🌍 Fluência em inglês (A2 → B1)
+- 🛡️ Certificação ISO 27001 & Segurança da Informação
+- 💻 Estudo sobre servidores e infraestrutura de TI
 
----
 
 ## 🌐 Conecte-se comigo
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://byarthurvm.carrd.co/)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/arthurvm1)
 
 </div>
 
