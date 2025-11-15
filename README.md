@@ -97,13 +97,7 @@ const arthur = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thurzinho-0&style=flat-square&color=0e75b6&label=Visualizações+do+Perfil"/>
   <br/>
-  <sub>💡 <i>"Código é como humor. Quando você precisa explicar, já não é tão bom."</i> – Cory House</sub>
-</div>
 
-<div align="center">
-  
-  ⭐️ Feito por [thurzinho-0](https://github.com/thurzinho-0) com ❤️
-  
 </div>
 
 ## 💼 Projetos em destaque
