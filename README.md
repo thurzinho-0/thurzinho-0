@@ -1,8 +1,8 @@
 # Olá! 👋 Eu sou o Arthur Marques
 
 <div align="center">
-  <!-- Substitua o link abaixo com o link direto da imagem no seu repositório -->
-  <img height="150" src="https://github.com/seu-usuario/seu-repositorio/blob/main/Yellow%20Black%20Brush%20Streetwear%20Brand%20Logo.png?raw=true" alt="Banner"/>
+  <!-- Substitua o link abaixo pelo seu link de imagem -->
+  <img height="150" src="https://github.com/thurzinho-0/thurzinho-0/blob/main/imagem_2025-11-15_152703901-removebg-preview.png?raw=true" alt="Banner"/>
 </div>
 
 <p align="center">
