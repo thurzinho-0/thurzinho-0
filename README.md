@@ -108,19 +108,29 @@ const arthur = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarques&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thurzinho-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurzinho-0&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurmarques&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thurzinho-0&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurmarques&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thurzinho-0&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thurzinho-0&style=flat-square&color=0e75b6&label=Visualizações+do+Perfil"/>
+  <br/>
+  <sub>💡 <i>"Código é como humor. Quando você precisa explicar, já não é tão bom."</i> – Cory House</sub>
+</div>
+
+<div align="center">
+  
+  ⭐️ Feito por [thurzinho-0](https://github.com/thurzinho-0) com ❤️
+  
+</div>
 
 ## 🎓 Experiência Profissional
 
