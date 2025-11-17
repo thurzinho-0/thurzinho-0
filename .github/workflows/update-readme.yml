@@ -8,28 +8,35 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      
-      - name: Update README stats
-        run: |
-          # Força cache refresh adicionando timestamp
-          TIMESTAMP=$(date +%s)
-          # Usando sed com sufixo '' para evitar problemas de compatibilidade
-          sed -i '' "s/cache_seconds=[0-9]*/cache_seconds=${TIMESTAMP}/g" README.md
 
-      - name: Commit changes
+      - name: Update README stats (portable)
+        run: |
+          # Timestamp para "cache bust"
+          TIMESTAMP=$(date +%s)
+          echo "Timestamp: $TIMESTAMP"
+
+          # Substitui cache_seconds=<n> no README de forma portátil (Ubuntu runner)
+          # Usa perl para compatibilidade entre sistemas
+          perl -pi -e "s/cache_seconds=\d+/cache_seconds=${TIMESTAMP}/g" README.md
+
+          # Exibe trecho modificado para debug (opcional)
+          echo "Trecho alterado (linhas com cache_seconds):"
+          grep -n "cache_seconds=" README.md || true
+
+      - name: Commit changes (if any)
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          # Faz o commit apenas se houver mudanças
-          git diff --quiet || git commit -m "🤖 Auto-update GitHub stats"
+          # commit apenas se houver mudanças staged
+          git diff --cached --quiet || git commit -m "🤖 Auto-update GitHub stats [timestamp ${TIMESTAMP}]"
 
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0  # Use uma versão estável
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
