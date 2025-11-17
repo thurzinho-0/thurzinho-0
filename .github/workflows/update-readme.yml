@@ -2,7 +2,7 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Atualiza a cada 1 horas
+    - cron: '0 */1 * * *'  # Atualiza a cada 1 hora
   workflow_dispatch:        # Permite rodar manualmente
 
 jobs:
@@ -17,17 +17,19 @@ jobs:
         run: |
           # Força cache refresh adicionando timestamp
           TIMESTAMP=$(date +%s)
-          sed -i "s/cache_seconds=[0-9]*/cache_seconds=${TIMESTAMP}/g" README.md
-      
+          # Usando sed com sufixo '' para evitar problemas de compatibilidade
+          sed -i '' "s/cache_seconds=[0-9]*/cache_seconds=${TIMESTAMP}/g" README.md
+
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update GitHub stats"
-      
+          # Faz o commit apenas se houver mudanças
+          git diff --quiet || git commit -m "🤖 Auto-update GitHub stats"
+
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0  # Use uma versão estável
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
