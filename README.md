@@ -81,10 +81,10 @@ const arthur = {
 ---
 
 ## 📊 Estatísticas do GitHub
-<!-- 🤖 Atualizadas automaticamente a cada 6 horas pelo GitHub Actions -->
+<!-- 🤖 Atualizadas automaticamente a cada 1 hora pelo GitHub Actions -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thurzinho-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1763349173"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurzinho-0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1763349173"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thurzinho-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurzinho-0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
@@ -98,7 +98,7 @@ const arthur = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thurzinho-0&style=flat-square&color=0e75b6&label=Visualizações+do+Perfil"/>
   <br/>
-  <sub>💡 <i>Stats atualizadas automaticamente a cada 6h</i></sub>
+  <sub>💡 <i>Stats atualizadas automaticamente a cada 1h</i></sub>
 </div>
 
 ## 💼 Projetos em destaque
