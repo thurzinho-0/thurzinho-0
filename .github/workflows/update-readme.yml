@@ -5,6 +5,9 @@ on:
     - cron: '0 */1 * * *'  # Atualiza a cada 1 hora
   workflow_dispatch:        # Permite rodar manualmente
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -12,19 +15,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Update README stats (portable)
         run: |
-          # Timestamp para "cache bust"
           TIMESTAMP=$(date +%s)
           echo "Timestamp: $TIMESTAMP"
 
           # Substitui cache_seconds=<n> no README de forma portátil (Ubuntu runner)
-          # Usa perl para compatibilidade entre sistemas
+          # Se não houver cache_seconds= na README, esta linha NÃO fará nada
           perl -pi -e "s/cache_seconds=\d+/cache_seconds=${TIMESTAMP}/g" README.md
 
-          # Exibe trecho modificado para debug (opcional)
-          echo "Trecho alterado (linhas com cache_seconds):"
+          # Mostra linhas alteradas para debug (opcional)
+          echo "Linhas com cache_seconds (após alteração):"
           grep -n "cache_seconds=" README.md || true
 
       - name: Commit changes (if any)
@@ -32,7 +36,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          # commit apenas se houver mudanças staged
+          # Commit apenas se houver mudanças staged
           git diff --cached --quiet || git commit -m "🤖 Auto-update GitHub stats [timestamp ${TIMESTAMP}]"
 
       - name: Push changes
