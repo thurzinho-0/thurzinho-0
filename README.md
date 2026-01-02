@@ -83,8 +83,8 @@ const arthur = {
 ## 📊 Estatísticas do GitHub
 <!-- 🤖 Atualizadas automaticamente a cada 1 hora pelo GitHub Actions -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thurzinho-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1767392181"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurzinho-0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1767392181"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thurzinho-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1767395738"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurzinho-0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1767395738"/>
 </div>
 
 <div align="center">
