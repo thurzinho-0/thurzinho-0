@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>Cybersecurity Analyst | Blue Team | AppSec | Full-Stack Developer</b>
+  <b>ITOps Intern @ 180 Seguros | Cybersecurity Analyst | AppSec | Full-Stack Developer</b>
   <br/>
   🇧🇷 São Paulo, Brazil — Open to relocation & remote opportunities
 </p>
@@ -35,15 +35,16 @@
 ```typescript
 const arthur = {
   location: "São Paulo, Brazil",
-  education: "B.Tech Software Development @ FATEC São Paulo (2024–2027)",
-  focus: ["Cybersecurity", "Blue Team", "AppSec", "Vulnerability Research"],
+  currentRole: "ITOps Intern @ 180 Seguros",
+  background: "Self-taught professional focused on practical experience & certifications",
+  focus: ["Cybersecurity", "Blue Team", "AppSec", "IT Infrastructure", "IAM"],
   
-  highlight: "Disclosed a CVSS 9.3 critical vulnerability in a live production e-commerce",
+  highlight: "Built a sub-500ms AI translation app & disclosed a CVSS 9.3 vulnerability in production",
   
-  frameworks: ["OWASP Top 10", "MITRE ATT&CK", "ISO/IEC 27001:2022"],
-  certifications: ["Google Cybersecurity Certificate (in progress)", "ISO 27001 Lead Implementer (in progress)"],
+  frameworks: ["OWASP Top 10", "MITRE ATT&CK", "ISO/IEC 27001:2022", "LGPD"],
   
-  devStack: ["PHP", "JavaScript", "Go", "React", "MySQL", "HTML5/CSS3"],
+  devStack: ["TypeScript", "Python/FastAPI", "React", "Electron", "Go", "PHP"],
+  infraStack: ["Okta", "Mosyle MDM", "Snipe-IT", "Linux/macOS", "Cisco Packet Tracer"],
   
   languages: {
     portuguese: "Native",
@@ -51,9 +52,8 @@ const arthur = {
     spanish: "Intermediate (B1)"
   },
   
-  openTo: ["Cybersecurity Analyst", "SOC Analyst", "AppSec", "Blue Team", "GRC"]
+  openTo: ["ITOps", "Cybersecurity Analyst", "SOC Analyst", "AppSec", "GRC"]
 };
-```
 
 ---
 
