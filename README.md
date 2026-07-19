@@ -54,6 +54,7 @@ const arthur = {
   
   openTo: ["ITOps", "Cybersecurity Analyst", "SOC Analyst", "AppSec", "GRC"]
 };
+```
 
 ---
 
