@@ -58,6 +58,16 @@ const arthur = {
 
 ---
 
+## Professional Experience
+🛡️ ITOps Intern — 180 Seguros (Jul 2026 – Present)
+Managing corporate IT infrastructure, identity lifecycles, and asset ecosystems in a fast-paced environment.
+
+Identity & Access Management (IAM): Managing user lifecycles and secure authentication via Okta.
+
+Device Management (MDM): Administering macOS fleets via Mosyle and maintaining hardware tracking via Snipe-IT.
+
+Tech Support: Delivering N1/N2 technical support and executing secure onboarding/offboarding workflows.
+
 ## 🔐 Security Research
 
 ### 🔴 Critical — .git Directory Exposure (CVSS 9.3)
@@ -82,6 +92,34 @@ const arthur = {
 ---
 
 ## 💼 Development Projects
+
+## 🛡️ AI SOC Copilot — Threat Detection & Correlation
+A simulated Security Operations Center environment combining detection heuristics and AI to filter noise from real threats.
+
+Stack: Python, FastAPI, Flask, OpenAI API.
+
+Features: Detects real attacks (Brute Force T1110, SQLi T1190, Malicious PowerShell), correlates events, auto-classifies risks, and generates AI-assisted incident response playbooks.
+
+## 🦠 AI Malware Triage Assistant
+Automated initial malware triage tool designed to replace the first 30 minutes of manual SOC investigation.
+
+Stack: Python, Flask, VirusTotal API, OpenAI API.
+
+Features: Fetches SHA256 data across 75+ engines and uses strict prompt engineering (low temperature) to prevent LLM hallucinations, generating structured SOC reports with IoCs and MITRE mapping.
+
+## 🎫 HelpDesk AI Triage — IT Ops Automation
+High-volume ticket triage system built to automate support classification, reducing N1 classification time from 5 minutes to under 3 seconds per ticket.
+
+Stack: Laravel 11, SQLite, Vanilla JS, OpenAI API.
+
+Features: Enforces strict JSON structured outputs from LLMs to categorize issues, define SLAs, impact, and generate N1 action plans without human intervention.
+
+## 🎙️ MasterVoice BR — Real-Time AI Communication HUD
+Always-on-top desktop solution designed to eliminate communication delays for global tech professionals.
+
+Stack: TypeScript, React, Electron, Python, FastAPI, Supabase
+
+Features: Sub-500ms low-latency WebSockets, GPT-4o-mini dynamic contextual AI coaching, and smart NLP data filtering.
 
 ### 📋 [Mini Kanban — Veritas](https://github.com/thurzinho-0)
 > Full-stack Kanban task management system — technical challenge
@@ -109,13 +147,14 @@ const arthur = {
 
 ## 🛠️ Tech Stack
 
-### Security
+### Security & Infrastructure
 <div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mosyle-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snipe--IT-2196F3?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
 ### Languages & Frameworks
@@ -172,26 +211,30 @@ const arthur = {
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Certifications & Professional Achievements
 
 | | |
 |--|--|
-| 🎓 | **B.Tech Software Development** — FATEC São Paulo (2024–2027) |
-| 📜 | **Google Cybersecurity Certificate** — Coursera (in progress) |
-| 📜 | **ISO/IEC 27001:2022 Lead Implementer** — GRC Lab / Udemy (in progress) |
+| 🛡️ | **ISO/IEC 27001:2022 Lead Implementer** — Udemy |
+| 🌐 | **Computer Networks & Infrastructure Security** — Udemy |
+| 📜 | **Google Cybersecurity Certificate** — Coursera |
+| ⚖️ | **LGPD & IT Security Fundamentals** — Fundação Bradesco |
+| 📈 | **Six Sigma White Belt** — RL&Associados |
 | 🎯 | **CompTIA Security+** — Studying |
-| 🏹 | **TryHackMe / HackTheBox** — In progress |
+| 🏹 | **TryHackMe / HackTheBox** — Active platform labs |
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔴 Penetration Testing & Ethical Hacking (Udemy — TCM Security)
-- 🔵 SOC Analyst operations & SIEM
-- 🟣 Digital Forensics (CyberDefenders)
-- ☁️ Cloud Security (AWS / Azure)
-- 🌍 English fluency (B1 → B2)
+- ☁️ **Cloud Identity & Infrastructure:** Automation with Okta & MDM strategies.
+- 🤖 **AI for Blue Team:** Applied LLMs for automated triage and SOC operations.
+- 🔴 **Offensive Security:** Advanced Penetration Testing & Ethical Hacking (TCM Security).
+- 🔵 **SIEM Operations:** Correlation and detection engineering.
+- 🟣 **Digital Forensics:** Investigations with CyberDefenders.
+- 🌍 **English:** Professional fluency focus (B1 → B2).
 
+---
 ---
 
 > *"Security is not a product, but a process."* — Bruce Schneier
